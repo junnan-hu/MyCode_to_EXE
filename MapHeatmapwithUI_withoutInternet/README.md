@@ -10,9 +10,9 @@
 　　（3）需要从官方平台获取geojson文件，如天地图。教程见文件夹MapHeatmapwithUI\_withoutInternet的PDF：**How to get geojson from "TIANDITU"**？
 ---
 
-
 　　（4）生成器教程见PDF文件：**Get Started with GeoHeatmapGenerator in 1 Minute**。
 ---
+
 
 
 
