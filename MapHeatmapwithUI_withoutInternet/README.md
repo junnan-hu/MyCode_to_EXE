@@ -12,6 +12,8 @@
 
 
 　　（4）生成器教程见PDF文件：**Get Started with GeoHeatmapGenerator in 1 Minute**。
+---
+
 
 
 
